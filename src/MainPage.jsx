@@ -5,7 +5,7 @@ import './MainPage.css';
 const MainPage = () => {
   return (
     <div className="main-container">
-      <h1>Search Categories</h1>
+      <h1>Search by Categories</h1>
       <div className="cards-container">
         <div className="card">
           <h3>Search Genetics Contents</h3>
